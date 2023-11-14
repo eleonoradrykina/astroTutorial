@@ -63,6 +63,11 @@ h1 {
     background-color: #ff9776;
 }
 
+img {
+    max-width: 30rem;
+    max-height: 20rem;
+}
+
 @media screen and (min-width: 636px) {
     .nav-links {
         margin-left: 5em;
